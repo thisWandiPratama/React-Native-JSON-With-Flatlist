@@ -1,6 +1,8 @@
 # React-Native-JSON-With-Flatlist
 Membuat Data JSON dan Mengimplementasikan Di React Native Dengan Component FlatList Kemudian Menglemparkan Data menggunakan State Params React Navigation.
 
+![Apa itu JSON ?](https://www.codepolitan.com/mengenal-format-json-59e8152dd0e51)
+
 ## Data.json
 
 ```
